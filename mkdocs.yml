@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Action Tests!!
+site_description: Testing GitHub Actions.
+
+theme:
+  name: "material"
+
+repo_name: itsayellow/action-test
+repo_url: https://itsayellow.github.io/action-test
