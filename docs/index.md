@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Itsayellow's GitHub Action Test
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Mkdocs full documentation visit [mkdocs.org](https://mkdocs.org).
 
 ## Commands
 
