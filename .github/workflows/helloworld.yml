@@ -17,3 +17,5 @@ jobs:
         echo test, and deploy your project.
     - name: Deploy MkDocs
       uses: mhausenblas/mkdocs-deploy-gh-pages@1.9
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
