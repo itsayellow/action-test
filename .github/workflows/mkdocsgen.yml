@@ -1,0 +1,15 @@
+name: MkDocs Generate
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Deploy MkDocs
+      uses: mhausenblas/mkdocs-deploy-gh-pages@1.9
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
