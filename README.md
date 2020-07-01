@@ -5,10 +5,13 @@ Test of github actions.
 
 ## Doc Actions
 
-[Deploy MkDocs · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/deploy-mkdocs)
-[mhausenblas/mkdocs-deploy-gh-pages: GitHub Action to deploy an MkDocs site to GitHub Pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages)
+Deploy MkDocs Action
+* [Deploy MkDocs · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/deploy-mkdocs)
+* [mhausenblas/mkdocs-deploy-gh-pages: GitHub Action to deploy an MkDocs site to GitHub Pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages)
 
-[peaceiris/actions-gh-pages: GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.](https://github.com/peaceiris/actions-gh-pages)
+GitHub Pages action
+* [GitHub Pages action · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/github-pages-action)
+* [peaceiris/actions-gh-pages: GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.](https://github.com/peaceiris/actions-gh-pages)
 
 ## Committing Actions
 
