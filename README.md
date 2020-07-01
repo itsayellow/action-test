@@ -15,6 +15,10 @@ GitHub Pages action
 
 ## Committing Actions
 
-[stefanzweifel/git-auto-commit-action: Automatically Commit changed Files back to Github with Github Actions](https://github.com/stefanzweifel/git-auto-commit-action)
+Git Auto Commit
+* [Git Auto Commit · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/git-auto-commit)
+* [stefanzweifel/git-auto-commit-action: Automatically Commit changed Files back to Github with Github Actions](https://github.com/stefanzweifel/git-auto-commit-action)
 
-[Add & Commit · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/add-commit)
+Add & Commit
+* [Add & Commit · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/add-commit)
+* [ EndBug/add-and-commit: Add & commit files from a path directly from GitHub Actions](https://github.com/EndBug/add-and-commit)
