@@ -7,7 +7,7 @@ Test of github actions.
 
 [Deploy MkDocs · Actions · GitHub Marketplace · GitHub](https://github.com/marketplace/actions/deploy-mkdocs)
 
-[peaceiris/actions-mkdocs-gh-pages: GitHub Actions for MkDocs and GitHub Pages - Build markdown documentation with Material for MkDocs and deploy to GitHub Pages automatically](https://github.com/peaceiris/actions-mkdocs-gh-pages)
+[peaceiris/actions-gh-pages: GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.](https://github.com/peaceiris/actions-gh-pages)
 
 [mhausenblas/mkdocs-deploy-gh-pages: GitHub Action to deploy an MkDocs site to GitHub Pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages)
 
